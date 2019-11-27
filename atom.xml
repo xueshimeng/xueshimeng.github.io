@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://xueshimeng.com/"/>
   <updated>2019-11-27T07:58:18.892Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://xueshimeng.com/</id>
   
   <author>
     <name>FlagMeng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/11/27/hello-world/"/>
-    <id>http://yoursite.com/2019/11/27/hello-world/</id>
+    <link href="http://xueshimeng.com/2019/11/27/hello-world/"/>
+    <id>http://xueshimeng.com/2019/11/27/hello-world/</id>
     <published>2019-11-27T07:58:18.892Z</published>
     <updated>2019-11-27T07:58:18.892Z</updated>
     
