@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="xueshimeng.github.io.git/"/>
+  <link href="xueshimeng.github.io/"/>
   <updated>2020-02-11T07:10:22.919Z</updated>
-  <id>xueshimeng.github.io.git/</id>
+  <id>xueshimeng.github.io/</id>
   
   <author>
     <name>FlagMeng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Springboot相关问题的理解</title>
-    <link href="xueshimeng.github.io.git/2020/02/11/SpringBoot%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%90%86%E8%A7%A3/"/>
-    <id>xueshimeng.github.io.git/2020/02/11/SpringBoot%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%90%86%E8%A7%A3/</id>
+    <link href="xueshimeng.github.io/2020/02/11/SpringBoot%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%90%86%E8%A7%A3/"/>
+    <id>xueshimeng.github.io/2020/02/11/SpringBoot%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98%E7%90%86%E8%A7%A3/</id>
     <published>2020-02-11T13:01:24.000Z</published>
     <updated>2020-02-11T07:10:22.919Z</updated>
     
@@ -37,17 +37,17 @@
     </summary>
     
     
-      <category term="分布式服务治理" scheme="xueshimeng.github.io.git/categories/%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86/"/>
+      <category term="分布式服务治理" scheme="xueshimeng.github.io/categories/%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1%E6%B2%BB%E7%90%86/"/>
     
     
-      <category term="Springboot" scheme="xueshimeng.github.io.git/tags/Springboot/"/>
+      <category term="Springboot" scheme="xueshimeng.github.io/tags/Springboot/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="xueshimeng.github.io.git/2019/11/27/hello-world/"/>
-    <id>xueshimeng.github.io.git/2019/11/27/hello-world/</id>
+    <link href="xueshimeng.github.io/2019/11/27/hello-world/"/>
+    <id>xueshimeng.github.io/2019/11/27/hello-world/</id>
     <published>2019-11-27T07:58:18.892Z</published>
     <updated>2019-11-28T07:30:49.230Z</updated>
     
